@@ -4,4 +4,4 @@ scikit-learn
 joblib
 
 #local package inside setup.py
--e .
+-e.

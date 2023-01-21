@@ -1,0 +1,4 @@
+stage:
+  load_data:
+  cmd: python stage1.py
+  
